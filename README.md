@@ -3,4 +3,4 @@
 
 
 ## **_Linguagens e ferramentas_**: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,docker,bash,git,linkedin,linux,redux,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,docker,git,linkedin,linux,redux,vscode,mysql)](https://skillicons.dev)
