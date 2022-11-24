@@ -5,4 +5,4 @@
 ## **_Linguagens e ferramentas_**: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,docker,git,linkedin,linux,redux,vscode,mysql)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhow212&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhow212&show_icons=true&theme=tokyonight)
