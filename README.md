@@ -2,7 +2,7 @@
 #### Bem Vindo(a) ao meu Perfil 
 
 <div>
-  <img src='https://github.com/Elienay-Alves/Elienay-Alves/blob/main/the-witcher_git.png' alt='geraldão de rivia' height='400' align='left'>
+  <img src='https://github.com/jhow212/jhow212/blob/main/Ainz.Ooal.Gown.full.2918528.png' height='500' align='left'>
   Me chamo João Vitor e estudo desenvolvimento Web na <a href='https://www.betrybe.com/' target='blank'>Trybe</a>. Eu tenho interesse em aprender as novidades do mundo da programação, logo, aqui você verá muitos projetos com algumas bibliotecas e frameworks. Nos meus repositórios vocês terão acesso a commits divertidos e bem detalhados, projetos e cursos que farei no meu tempo livre, os quais com certeza te darão uma noção de como tenho prazer em programar e estar em constantemente evolução.
 </div>
 
