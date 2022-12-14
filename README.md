@@ -1,5 +1,15 @@
 ### Eu sou o João Vitor
 #### Bem Vindo(a) ao meu Perfil 
+<h3 align="center">Bem vindo ao meu perfil</h3>
+
+<p align="center">
+  <a href="https://github.com/jhow212" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+    <a href="https://www.linkedin.com/in/joao-vitor-santos-costa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </a>
+</p>
+
 
 <div>
   <img src='https://github.com/jhow212/jhow212/blob/main/Ainz.Ooal.Gown.full.2918528.png' height='500' align='left'>
