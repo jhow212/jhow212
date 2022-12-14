@@ -1,14 +1,8 @@
 ### Eu sou o João Vitor
 #### Bem Vindo(a) ao meu Perfil 
-<h3 align="center">Bem vindo ao meu perfil</h3>
 
-<p align="center">
-  <a href="https://github.com/jhow212" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-    <a href="https://www.linkedin.com/in/joao-vitor-santos-costa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </a>
-</p>
+
+
 
 
 <div>
@@ -25,6 +19,14 @@ Sinta-se a vontade para olhar e ajudar. qualquer coisa entre em contato comigo �
 - 🤔 Me ajudem indicando projetos legais e instigantes 
 - 💬 Pode me perguntar qualquer coisa 
 - 📫 Moro aqui: São Paulo - SP
+
+<p align="center">
+  <a href="https://github.com/jhow212" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+    <a href="https://www.linkedin.com/in/joao-vitor-santos-costa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </a>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhow212&show_icons=true&theme=transparent)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhow212&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
   
